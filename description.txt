@@ -1,0 +1,56 @@
+💰 Budget Planner
+Project Description
+
+Budget Planner is a Python-based application designed to help users manage their personal finances by recording income and expenses, monitoring spending habits, and generating financial summaries. The application enables users to keep track of where their money comes from and where it goes, making it easier to plan budgets and improve financial decision-making.
+
+The project is being developed collaboratively by two team members using Git and GitHub, following professional software development practices such as feature branches, pull requests, code reviews, and issue tracking.
+
+🎯 Project Goal
+
+The primary goal of this project is not only to build a Budget Planner, but also to learn how developers collaborate using Git and GitHub.
+
+By the end of the project, we aim to:
+
+Develop a functional Python application.
+Learn version control with Git.
+Practice team collaboration using GitHub.
+Understand branching strategies.
+Resolve merge conflicts.
+Review each other's code through Pull Requests.
+Build a clean and maintainable project.
+Problem Statement
+
+Many people find it difficult to track their daily income and expenses. Without proper records, it becomes challenging to understand spending habits, control unnecessary expenses, or achieve savings goals.
+
+This project aims to provide a simple command-line solution that allows users to record transactions and view meaningful financial summaries.
+
+Objectives
+
+The project has two sets of objectives.
+
+Functional Objectives
+Record income transactions.
+Record expense transactions.
+Categorize transactions.
+Store transaction history.
+View all transactions.
+Search transactions.
+Delete transactions.
+Generate monthly reports.
+Calculate current balance.
+Learning Objectives
+Learn Git fundamentals.
+Learn GitHub collaboration.
+Practice working in feature branches.
+Learn Pull Requests.
+Learn Issue Tracking.
+Learn Merge Conflict resolution.
+Learn project organization.
+Target Users
+
+The application is intended for:
+
+Students
+Individuals managing personal finances
+Beginners learning Python
+Beginners learning GitHub collaboration
