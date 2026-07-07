@@ -1,4 +1,4 @@
-a= [1,2,3,4]
+a= [1,2,4]
 
 for i in a:
   print("hello world")
